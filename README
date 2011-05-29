@@ -1,0 +1,7 @@
+ABOUT THE PROJECT :
+Once again, a project made for learning python. 
+Its a text editor, with very basic functionalities. A very light-weight text editor. In a few days, I aim to make it a python IDE.
+Thanks to Tkinter API and java2s tutorials.
+
+HOW TO USE:
+python Editor.py <filename>
